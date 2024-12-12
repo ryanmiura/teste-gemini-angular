@@ -9,6 +9,6 @@ export const environment = {
       appId: '1:702324080275:web:0f46044ee11c5d84061766',
       measurementId: '',
   },
-  gemini_api_key: 'AIzaSyA3lY_3ipgbXGVw_zNVC7PIhKUsOobQAG4',
+  gemini_api_key: ,
   debug_token: ''
 };
